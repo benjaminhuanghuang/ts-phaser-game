@@ -5,3 +5,14 @@
 Source code : https://github.com/code0wl/Multiplayer-Phaser-game
 
 
+## Server side
+- TypeScript
+- express
+- Socket.IO
+
+## Client side
+- TypeScript
+- Phaser
+
+## Build
+- Webpackage

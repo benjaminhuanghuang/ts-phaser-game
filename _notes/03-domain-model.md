@@ -1,0 +1,1 @@
+![](./_images/domain-model.png)
